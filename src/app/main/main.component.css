@@ -1,0 +1,22 @@
+a:link {
+  text-decoration: none;
+  color: brown;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  font-family: Oswald;
+}
+
+.image {
+  display: block;
+  margin: auto;
+  width: 30%;
+  border-radius: 8px;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+}
